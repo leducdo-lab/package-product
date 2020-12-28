@@ -1,0 +1,17 @@
+{
+    "name": "leducdo/product",
+    "authors": [
+        {
+            "name": "Do Le",
+            "email": "ledo3012@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "TDP\\Product\\": "src/"
+        }
+    },
+
+    "require": {}
+}
