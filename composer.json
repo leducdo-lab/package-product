@@ -13,5 +13,13 @@
         }
     },
 
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TDP\\User\\UserServiceProvider"
+            ]
+        }
+    },
+
     "require": {}
 }
