@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TDP\\User\\UserServiceProvider"
+                "TDP\\Product\\ProductServiceProvider"
             ]
         }
     },
