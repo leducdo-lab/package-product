@@ -13,13 +13,12 @@
         }
     },
 
+    "require": {},
     "extra": {
         "laravel": {
             "providers": [
                 "TDP\\Product\\ProductServiceProvider"
             ]
         }
-    },
-
-    "require": {}
+    }
 }
